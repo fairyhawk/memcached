@@ -20,11 +20,9 @@ PropertyUtil.java
 </code></pre>
 pom 中使用spymemcached :
 <pre><code>
- <dependency>
-	    <groupId>net.spy</groupId>
-	    <artifactId>spymemcached</artifactId>
-	    <version>2.10.3</version>
-	</dependency>
+     groupId: net.spy
+     artifactId:spymemcached
+     version :2.10.3
 </code></pre>
 
 
