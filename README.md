@@ -18,4 +18,11 @@ PropertyUtil.java
  memCache.get(...);
  memCache.remove(...);
 </code></pre>
-
+pom 中使用spymemcached :
+<pre><code>
+ <dependency>
+			    <groupId>net.spy</groupId>
+			    <artifactId>spymemcached</artifactId>
+			    <version>2.10.3</version>
+			</dependency>
+</code></pre
